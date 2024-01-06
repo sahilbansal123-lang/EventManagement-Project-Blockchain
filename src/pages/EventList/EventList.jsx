@@ -2,6 +2,7 @@ import React from "react";
 import EventCard from "../../Component/EventCard/EventCard";
 import "./EventList.css";
 import { eventList } from "../../utils/EventDatabase";
+import Navigation from "../../Component/Navigation/Navigation";
 
 const EventList = () => {
   const renderEventCard = () => {
@@ -21,6 +22,7 @@ const EventList = () => {
 
   return (
     <div>
+      <Navigation />
       <div className="event-list-wrapper">
         <div className="event-list">
           {eventList.length > 0 ? (
