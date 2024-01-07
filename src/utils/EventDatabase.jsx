@@ -2,7 +2,7 @@ export const eventList = [
   {
     id: 1,
     heading: "Epic Comic Con",
-    date: { year: 2023, month: "July" },
+    date: { year: 2024, month: "July" },
     location: "Mumbai, India",
     description:
       "Experience the most anticipated gathering of comic enthusiasts! Epic Comic Con invites you to immerse yourself in a realm where heroes and villains collide. Unveil exclusive collectibles, join panels with renowned artists, and witness legendary cosplayers bring your favorite characters to life. Whether you're a seasoned comic collector or just starting your journey, this event guarantees an epic adventure!",
@@ -11,7 +11,7 @@ export const eventList = [
   {
     id: 2,
     heading: "Fantasy Gaming Expo",
-    date: { year: 2024, month: "May" },
+    date: { year: 2025, month: "May" },
     location: "Delhi, India",
     description:
       "Embark on a journey through fantastical realms at the Fantasy Gaming Expo! Delve into an immersive gaming experience that transcends reality. From tabletop adventures to cutting-edge VR simulations, this expo celebrates the essence of fantasy in gaming. Unleash your strategic prowess, forge alliances, and discover a world where every move shapes the destiny of kingdoms!",
@@ -20,7 +20,7 @@ export const eventList = [
   {
     id: 3,
     heading: "Cosplay Carnival",
-    date: { year: 2023, month: "September" },
+    date: { year: 2024, month: "September" },
     location: "Bangalore, India",
     description:
       "Welcome to the Cosplay Carnival, where creativity knows no bounds! Embrace the art of transformation as cosplayers from across galaxies gather to showcase their craftsmanship. Unleash your alter ego, don your meticulously crafted costumes, and strut into a world where fantasy meets reality. With contests, workshops, and a vibrant community, this carnival invites you to step into a realm of endless possibilities!",
@@ -29,7 +29,7 @@ export const eventList = [
   {
     id: 4,
     heading: "Sci-Fi Symposium",
-    date: { year: 2024, month: "March" },
+    date: { year: 2025, month: "March" },
     location: "Hyderabad, India",
     description:
       "Dive into the future at the Sci-Fi Symposium, a convergence of cutting-edge ideas and futuristic visions! Explore the technological marvels reshaping our world, engage with visionary speakers, and ponder the possibilities of tomorrow. From AI advancements to interstellar exploration, this symposium ignites curiosity and fuels the imagination. Join us on this journey to unravel the mysteries of science fiction!",
@@ -38,7 +38,7 @@ export const eventList = [
   {
     id: 5,
     heading: "Epic Comic Con",
-    date: { year: 2023, month: "January" },
+    date: { year: 2024, month: "January" },
     location: "Mumbai, India",
     description:
       "Experience the most anticipated gathering of comic enthusiasts! Epic Comic Con invites you to immerse yourself in a realm where heroes and villains collide. Unveil exclusive collectibles, join panels with renowned artists, and witness legendary cosplayers bring your favorite characters to life. Whether you're a seasoned comic collector or just starting your journey, this event guarantees an epic adventure!",
