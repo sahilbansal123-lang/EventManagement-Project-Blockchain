@@ -17,4 +17,30 @@ Follow these steps to set up your project:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/sahilbansal123-lang/EventManagement-Project-Blockchain.git
+
+2. Clone this repository:
+
+   ```bash
+   cd Event Management
+   
+3. Install Dependencies
+   ```bash
+   npm install
+
+4. Start Development Server:
+   ```bash
+   npm run dev
+
+
+![image](https://github.com/sahilbansal123-lang/EventManagement-Project-Blockchain/assets/72665907/aa39343e-27e0-4952-a8aa-3b10c960688b)
+
+
+
+Contact
+Feel free to reach out if you have any questions or suggestions:
+
+    Email: bansalsahil9053@gmail.com
+
+    Twitter: @callmeS72
+
