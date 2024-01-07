@@ -1,10 +1,11 @@
 import React from "react";
 import "./EventCard.css";
+import { Link } from "react-router-dom";
 
 const EventCard = ({ id, date, heading, location, img }) => {
   const { year, month } = date;
   return (
-    <>
+    <Link to={`/events/${id}`}>
       <div className="card">
         <div className="card-content">
           <h3>{heading}</h3>
@@ -19,7 +20,7 @@ const EventCard = ({ id, date, heading, location, img }) => {
           <img src={img} alt="image not found" />
         </div>
       </div>
-    </>
+    </Link>
   );
 };
 

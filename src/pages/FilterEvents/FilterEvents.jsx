@@ -3,6 +3,7 @@ import FilterBox from "../../Component/FilterBox/FilterBox";
 import SearchEventList from "../../Component/SearchEventList/SearchEventList";
 import "./FilterEvents.css";
 import { useState } from "react";
+import Navigation from "../../Component/Navigation/Navigation";
 
 const FilterEvents = () => {
   const [monthYear, setMonthYear] = useState({
@@ -17,6 +18,7 @@ const FilterEvents = () => {
 
   return (
     <div>
+      <Navigation />
       <div className="find-events-wrapper">
         <FilterBox getMonthYear={getMonthYear} />
         <SearchEventList monthYear={monthYear} />

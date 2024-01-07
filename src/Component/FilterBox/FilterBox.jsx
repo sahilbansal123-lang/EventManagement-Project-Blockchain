@@ -16,13 +16,11 @@ const FilterBox = ({ getMonthYear }) => {
   };
 
   const handleMonthChange = (e) => {
-    console.log(e.target.value);
     setSelectedMonth(e.target.value);
   };
 
   const handleYearChange = (e) => {
-    console.log(e.target.value);
-    setSelectedYear(e.target.value);
+    setSelectedYear(Number(e.target.value));
   };
 
   const updateParent = () => {
