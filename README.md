@@ -11,3 +11,10 @@ The template supports two official plugins:
 2. **@vitejs/plugin-react-swc:** This alternative plugin uses [SWC](https://swc.rs/) for Fast Refresh. For more details, refer to the [plugin-react-swc README](https://github.com/vitejs/vite-plugin-react-swc).
 
 ## Getting Started
+
+Follow these steps to set up your project:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-project.git
